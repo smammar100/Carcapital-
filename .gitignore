@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / tooling
+.claude/
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Node / Next (nested next-app/.gitignore also applies)
+node_modules/
+.next/
+out/
+.env*.local
